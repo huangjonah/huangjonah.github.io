@@ -44,7 +44,7 @@
 
 .banner_size {
 	width:100%;
-	height: 20vh;
+	height: 30px;
 
 }
 
@@ -55,4 +55,21 @@
 
 .text_white {
 	color:white;
+}
+
+.welcome_status {
+	margin-top:100px;
+}
+
+.welcome_pic {
+	margin-top:100px;
+}
+
+.hidden {
+	opacity:0;
+}
+
+.wobble {
+ animation-duration: infinite;
+  -webkit-animation-duration: infinite;
 }
